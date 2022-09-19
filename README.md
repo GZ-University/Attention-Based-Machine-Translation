@@ -1,1 +1,10 @@
-# Attention-Based-Machine-Translation
+# 注意事项
+
+### 1、Doc是学习资料
+
+​	每个人必须先学习了相应的基础知识，完成相应的Exercise
+
+### 2、Project是项目的目录
+
+​	到相应的目录下面编写搭建项目，后面我们再一起整合到Final Project
+
